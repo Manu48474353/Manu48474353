@@ -74,13 +74,4 @@ export default function Dashboard() {
 }
 
 
-I’ve set up the foundation of your custom school management software with:
-
-A login system for the admin.
-
-A dashboard layout featuring key modules like Learners, Exams, SMS Alerts, Finance, Teachers, and Parents.
-
-
-Next, I can start building out the Learner Management module or set up SMS functionality. Which one do you want me to tackle first?
-
 
